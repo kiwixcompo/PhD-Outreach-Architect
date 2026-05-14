@@ -1,0 +1,6 @@
+{
+  "name": "PhD Outreach Architect",
+  "description": "An AI assistant that analyzes FindAPhD projects and aligns them with a specific background to generate tailored outreach emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
